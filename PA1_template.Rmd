@@ -84,7 +84,7 @@ activityData_tbl_summary_date = activityData_tbl[, list(total_steps = sum(steps,
 1.  Make a histogram of the total number of steps taken each day
 2.  Calculate and report the mean and median total number of steps taken per day
 
-***Note: Mean and Median Are Reported In Legend Of Histogram***
+**Note: Mean and Median Are Reported In Legend Of Histogram**
 ---
 ```{r}
 #Making The Generation of This Plot Into A Function So I Can Re-use Later
